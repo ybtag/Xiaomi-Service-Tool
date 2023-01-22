@@ -68,7 +68,7 @@ Xiaomi Service Tool (xiaomi redmi note 3 pro toolkit) is an application created 
 
 ## Build
 
-Clone repo :point_right: open solution in Visual Studio :point_right: add reference :point_right: build :facepunch:
+Clone repo :point_right: open solution in Visual Studio :point_right: add references from the Reference folder, except for QC.QMSLPhone.dll :point_right: build :facepunch:
 
 ## Usage
 
